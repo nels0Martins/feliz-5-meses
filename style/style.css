@@ -50,6 +50,7 @@ p {
 }
 
 footer {
+    font-family: var(--font2);
     background-color: black;
     text-align: center;
     color: white;
